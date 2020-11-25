@@ -1,0 +1,12 @@
+/Users/PINK/Documents/C#/Task/Mid-Term_Assignment/Mid-Term_Assignment/obj/Debug/netcoreapp3.1/Mid-Term_Assignment.csprojAssemblyReference.cache
+/Users/PINK/Documents/C#/Task/Mid-Term_Assignment/Mid-Term_Assignment/obj/Debug/netcoreapp3.1/Mid-Term_Assignment.AssemblyInfoInputs.cache
+/Users/PINK/Documents/C#/Task/Mid-Term_Assignment/Mid-Term_Assignment/obj/Debug/netcoreapp3.1/Mid-Term_Assignment.AssemblyInfo.cs
+/Users/PINK/Documents/C#/Task/Mid-Term_Assignment/Mid-Term_Assignment/obj/Debug/netcoreapp3.1/Mid-Term_Assignment.csproj.CoreCompileInputs.cache
+/Users/PINK/Documents/C#/Task/Mid-Term_Assignment/Mid-Term_Assignment/bin/Debug/netcoreapp3.1/Mid-Term_Assignment.deps.json
+/Users/PINK/Documents/C#/Task/Mid-Term_Assignment/Mid-Term_Assignment/bin/Debug/netcoreapp3.1/Mid-Term_Assignment.runtimeconfig.json
+/Users/PINK/Documents/C#/Task/Mid-Term_Assignment/Mid-Term_Assignment/bin/Debug/netcoreapp3.1/Mid-Term_Assignment.runtimeconfig.dev.json
+/Users/PINK/Documents/C#/Task/Mid-Term_Assignment/Mid-Term_Assignment/bin/Debug/netcoreapp3.1/Mid-Term_Assignment.dll
+/Users/PINK/Documents/C#/Task/Mid-Term_Assignment/Mid-Term_Assignment/bin/Debug/netcoreapp3.1/Mid-Term_Assignment.pdb
+/Users/PINK/Documents/C#/Task/Mid-Term_Assignment/Mid-Term_Assignment/obj/Debug/netcoreapp3.1/Mid-Term_Assignment.dll
+/Users/PINK/Documents/C#/Task/Mid-Term_Assignment/Mid-Term_Assignment/obj/Debug/netcoreapp3.1/Mid-Term_Assignment.pdb
+/Users/PINK/Documents/C#/Task/Mid-Term_Assignment/Mid-Term_Assignment/obj/Debug/netcoreapp3.1/Mid-Term_Assignment.genruntimeconfig.cache

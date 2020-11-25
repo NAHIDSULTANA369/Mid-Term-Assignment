@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{F4FA55B7-D2D1-4FE0-85B3-0130D726AF80}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Mid-Term_Assignment/Program.cs">
+    <Files>
+      <File FileName="Mid-Term_Assignment/Program.cs" Line="1" Column="1" />
+      <File FileName="Mid-Term_Assignment/Course.cs" Line="90" Column="14" />
+      <File FileName="Mid-Term_Assignment/Department.cs" Line="27" Column="38" />
+      <File FileName="Mid-Term_Assignment/Section.cs" Line="25" Column="60" />
+      <File FileName="Mid-Term_Assignment/Faculty.cs" Line="5" Column="6" />
+      <File FileName="Mid-Term_Assignment/Weekly_Teaching_Hours.cs" Line="31" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Mid-Term_Assignment" expanded="True">
+            <Node name="Mid-Term_Assignment" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Mid-Term__Assignment FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
